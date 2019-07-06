@@ -1,4 +1,4 @@
-this is my first word.
+﻿this is my first word.
 git is a free software.
 开始
 xg
@@ -14,3 +14,5 @@ lllllllllllllllllllllllllllllllllllll
 gitlearn3........................
 
 gitlearn4.............
+
+hahah
